@@ -165,16 +165,6 @@ currently:
 
 ---
 
-## 📈 Atividade no GitHub
-
-<div align="center">
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=weilyr3&theme=tokyo-night&hide_border=true&area=true)](https://github.com/weilyr3)
-
-</div>
-
----
-
 # 🚀 Projetos & Soluções
 
 Alguns dos tipos de projetos que venho desenvolvendo:
