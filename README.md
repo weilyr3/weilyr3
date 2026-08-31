@@ -147,9 +147,9 @@ currently:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=weilyr3&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weilyr3&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </div>
 
@@ -159,7 +159,7 @@ currently:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=weilyr3&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -169,7 +169,7 @@ currently:
 
 <div align="center">
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO\&theme=tokyo-night\&hide_border=true)](https://github.com/SEU_USUARIO)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=weilyr3\&theme=tokyo-night\&hide_border=true)](https://github.com/weilyr3)
 
 </div>
 
